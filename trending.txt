@@ -1,0 +1,12 @@
+pos nome, repositorio.
+
+1° Microsoft, MS-DOS.
+2° enochtangg, quick-SQL-cheatsheet.
+3° 30-seconds, 30-seconds-of-code.
+4° sourcegraph, sourcegraph.
+5° MontFerret, ferret.
+6° fastai, fastai.
+7° solid, solid.
+8° nikitavoloboev, my-mac-os.
+9° basecamp, trix.
+10° cfenollosa, os-tutorial.
