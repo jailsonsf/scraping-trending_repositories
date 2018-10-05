@@ -13,21 +13,21 @@ Tool to find the name of the main repositories in GitHub
 
 1. Install pipenv with __pip__:
     ```
-    >>> pip install pipenv
+    pip install pipenv
     ```
 
 1. Install depedencies in __Pipfile__;
 
     ```
-    >>> pipenv install --skip-lock
+    pipenv install --skip-lock
     ```
 
 ### Quick start 
 
-After install all depedencies with __pipenv__ run the application with follow command:
+After install all depedencies with __pipenv__ run the application with the following command:
 
 ```
->>> pipenv run main.py
+pipenv run main.py
 ```
 
 ## Team 
