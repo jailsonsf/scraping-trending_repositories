@@ -1,6 +1,6 @@
 # Scraping of the Repositories Trending
 
-Tool to find the name of the main repositories in GitHub :octocat:
+Tool to find the name of the main repositories in GitHub
 
 ## Devlopment  
 
@@ -12,14 +12,17 @@ Tool to find the name of the main repositories in GitHub :octocat:
 ### Installation 
 
 1. Install pipenv with __pip__:
+    ```
+    >>> pip install pipenv
+    ```
+
 1. Install depedencies in __Pipfile__;
 
-```
->>> pip install pipenv
->>> pipenv install --skip-lock
-```
+    ```
+    >>> pipenv install --skip-lock
+    ```
 
-### Quick start :rocket:
+### Quick start 
 
 After install all depedencies with __pipenv__ run the application with follow command:
 
@@ -27,7 +30,7 @@ After install all depedencies with __pipenv__ run the application with follow co
 >>> pipenv run main.py
 ```
 
-### Team 
+## Team 
 * [Jailson Soares](https://github.com/jailsonsf/)
 
 
