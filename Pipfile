@@ -5,10 +5,11 @@ name = "pypi"
 
 [packages]
 requests = "*"
-"bs4" = "*"
+bs4 = "*"
 lxml = "*"
 
 [dev-packages]
+black="*"
 
 [requires]
 python_version = "3.6"
