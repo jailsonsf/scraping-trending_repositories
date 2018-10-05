@@ -19,7 +19,7 @@ Tool to find the name of the main repositories in GitHub
 1. Install depedencies in __Pipfile__;
 
     ```
-    pipenv install --skip-lock
+    make pipfile 
     ```
 
 ### Quick start 
@@ -27,7 +27,7 @@ Tool to find the name of the main repositories in GitHub
 After install all depedencies with __pipenv__ run the application with the following command:
 
 ```
-pipenv run main.py
+make start
 ```
 
 ## Team 
