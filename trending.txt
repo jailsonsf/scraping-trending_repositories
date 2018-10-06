@@ -1,12 +1,12 @@
 pos nome, repositorio.
 
-1° Microsoft, MS-DOS.
-2° enochtangg, quick-SQL-cheatsheet.
-3° 30-seconds, 30-seconds-of-code.
-4° sourcegraph, sourcegraph.
-5° MontFerret, ferret.
-6° fastai, fastai.
-7° solid, solid.
-8° nikitavoloboev, my-mac-os.
-9° basecamp, trix.
-10° cfenollosa, os-tutorial.
+1° imhuay, Algorithm_Interview_Notes-Chinese.
+2° viatsko, awesome-vscode.
+3° CyC2018, CS-Notes.
+4° Microsoft, MS-DOS.
+5° 30-seconds, 30-seconds-of-code.
+6° dotnet, infer.
+7° enochtangg, quick-SQL-cheatsheet.
+8° yichengchen, clashX.
+9° MontFerret, ferret.
+10° firstcontributions, first-contributions.
